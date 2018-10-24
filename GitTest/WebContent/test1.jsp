@@ -6,9 +6,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 <h1>수정</h1>
-<h3>server<h/3>
+<<<<< HEAD
+<h3>clint</h3>
+=====
+<h3>server</h3>
 </head>
 <body>
-
 </body>
 </html>
