@@ -11,7 +11,6 @@
 <h1>수정</h1>
 <h3>client</h3>
 <h3>server</h3>
-client2
-    server2
+pull
 </body>
 </html>
