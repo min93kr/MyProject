@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
-<h1>test1.jsp</h1>
+<h1>수정</h1>
 </head>
 <body>
 
